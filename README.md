@@ -4,7 +4,7 @@ You remember that game we used to play with cards or anything and try to match t
 
 ##### Memory Game
 
-Game Link: https://mostafaanwar.github.io/MemoryGame/
+Game Link: https://mostafaanwar.github.io/MemoryGame/ (still needs some work)
 
 ## ToDo:
 
